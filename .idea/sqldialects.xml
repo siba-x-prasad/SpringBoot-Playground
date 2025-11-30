@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/udemyCOurse/03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/01-create-user.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/02-student-tracker.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/04-spring-boot-rest-crud/spring-boot-employee-sql-script/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/01-spring-boot-rest-security-default-security/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/01-spring-boot-rest-security-default-security/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/01-spring-boot-rest-security-default-security/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/01-spring-boot-rest-security-default-security/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/02-spring-boot-rest-security-basic/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/02-spring-boot-rest-security-basic/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/02-spring-boot-rest-security-basic/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/02-spring-boot-rest-security-basic/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/03-spring-boot-rest-security-restrict-access-based-on-roles/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/03-spring-boot-rest-security-restrict-access-based-on-roles/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/03-spring-boot-rest-security-restrict-access-based-on-roles/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/03-spring-boot-rest-security-restrict-access-based-on-roles/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/04-spring-boot-rest-security-restrict-access-based-on-roles-patch/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/04-spring-boot-rest-security-restrict-access-based-on-roles-patch/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/04-spring-boot-rest-security-restrict-access-based-on-roles-patch/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/04-spring-boot-rest-security-restrict-access-based-on-roles-patch/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/05-spring-boot-rest-security-jdbc-plain-text/sql-scripts/10-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/05-spring-boot-rest-security-jdbc-plain-text/sql-scripts/11-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/05-spring-boot-rest-security-jdbc-plain-text/sql-scripts/12-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/05-spring-boot-rest-security-jdbc-plain-text/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/06-spring-boot-rest-security-jdbc-bcrypt/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/06-spring-boot-rest-security-jdbc-bcrypt/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/06-spring-boot-rest-security-jdbc-bcrypt/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/06-spring-boot-rest-security-jdbc-bcrypt/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/07-spring-boot-rest-security-jdbc-bcrypt-custom-table-names/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/07-spring-boot-rest-security-jdbc-bcrypt-custom-table-names/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/07-spring-boot-rest-security-jdbc-bcrypt-custom-table-names/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/05-spring-boot-rest-security/07-spring-boot-rest-security-jdbc-bcrypt-custom-table-names/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/07-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-list/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/11-spring-boot-spring-mvc-security-jdbc-plain-text/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/11-spring-boot-spring-mvc-security-jdbc-plain-text/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/11-spring-boot-spring-mvc-security-jdbc-plain-text/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/11-spring-boot-spring-mvc-security-jdbc-plain-text/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/09-spring-boot-jpa-advanced-mappings/00-jpa-advanced-mappings-database-scripts/hb-01-one-to-one-uni/create-db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/09-spring-boot-jpa-advanced-mappings/00-jpa-advanced-mappings-database-scripts/hb-02-one-to-one-bi/create-db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/09-spring-boot-jpa-advanced-mappings/00-jpa-advanced-mappings-database-scripts/hb-03-one-to-many/create-db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/09-spring-boot-jpa-advanced-mappings/00-jpa-advanced-mappings-database-scripts/hb-04-one-to-many-uni/create-db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/09-spring-boot-jpa-advanced-mappings/00-jpa-advanced-mappings-database-scripts/hb-05-many-to-many/create-db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/udemyCOurse/10-spring-boot-aop/23-spring-boot-aop-spring-boot-mvc-crud-demo-employees/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+  </component>
+</project>

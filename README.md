@@ -1,7 +1,34 @@
 # Springboot
 Documentation of SPRINGBOOT for beginners.
 its provide a ready made web application project where all the configuration done itself and provide one ready project.Internally it maintain to provide Web server like **TOMCAT or GLASSFISH**. You no need to manually setup server for web application developed in springboot.
-## Springboot Project Links
+
+## Spring boot To do's
+- **Works on my machine is not Engineering**
+- Logging
+- Monitoring
+- Debugging in production like environments
+- **Don't overuse @Transactional**
+- Understand Transaction Boundaries
+- Isolcation Levels
+- Lazy loading
+- **SQL: Spring JPA**
+- Indexes
+- Execution Plans
+- Join and window function
+- Why your query is slow
+- **Caching is your best friend**
+- Cache aside
+- Write through
+- TTL strategies
+## Implement these in your personal project
+- Auth
+- Payment
+- File upload
+- Queue processing
+- Caching
+- Docker
+
+## Spring boot Project Links
 https://www.springboottutorial.com/spring-boot-projects-with-code-examples
   
 ## Here are the main concept of spring Boot  
